@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     EditText txt_produto;
 
     ProdutoAdapter adapter;
+	
+	String xyz;
 
 
     View.OnClickListener click_ck = new View.OnClickListener() {
